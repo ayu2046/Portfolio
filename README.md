@@ -24,8 +24,8 @@ I am Ayush Awasthi, a Computer Science graduate (2021–2025) from Kanpur, Uttar
   - **Library Management System**: Python + SQL backend system
 
 - **Contact & Connect**  
-  - 📧 [Email Address]  
-  - 🔗 [LinkedIn Profile]
+  - 📧 awasthiayush3399@gmail.com
+  - 🔗 https://www.linkedin.com/in/ayush-awasthi-031437219/)
 
 ---
 
