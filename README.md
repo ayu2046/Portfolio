@@ -5,7 +5,7 @@ Welcome to my personal portfolio website — a minimalist, responsive showcase o
 ---
 
 ## 🧭 About Me
-I am Ayush Tiwari, a Computer Science graduate (2021–2025) from Kanpur, Uttar Pradesh. I specialize in full‑stack web development, data analysis, and intelligent systems.
+I am Ayush Awasthi, a Computer Science graduate (2021–2025) from Kanpur, Uttar Pradesh. I specialize in full‑stack web development, data analysis, and intelligent systems.
 
 ---
 
